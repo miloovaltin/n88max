@@ -1,0 +1,16 @@
+{
+"name": "n88max",
+"theme": "n88max",
+"version": "6.8.8",
+"description": "n88max ทางเข้าเว็บแทงบอลเว็บตรง ระบบออโต้ รับโบนัสเครดิตฟรี",
+"keywords": [
+"n88max",
+"n88max เครดิตฟรี",
+"n88max ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/n88max",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
